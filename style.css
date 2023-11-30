@@ -1,0 +1,76 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1280px;
+}
+
+.container{
+  width: 900px;
+  height: 650px;
+  margin: auto;
+  background-color:rgba(0, 0, 0, 0.5);
+  font-family: Arial;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 60px;
+}
+
+.logo-text{
+  text-align: center;
+}
+
+#titolo{
+  color: #00dd00;
+  font-size: 30px;
+}
+
+main{
+  width: 800px;
+  height: 300px;
+  color: white;
+  margin: auto;
+}
+
+nav{
+  text-align: center;
+  background-color: #00dd00;
+  height: 40px;
+  width: 800px;
+  margin: auto;
+}
+
+button{
+  margin-top: 10px;
+}
+
+.monopattino1, .monopattino2, .monopattino3{
+  margin-top: 20px;
+}
+
+span{
+  font-size: 20px;
+}
+
+.stato-carica1{
+  width: 250px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 4px;
+}
+
+.stato-carica2{
+  width: 450px;
+  height: 20px;
+  background-color: #1EC31F;
+  border-radius: 4px;
+}
+
+.stato-carica3{
+  width: 150px;
+  height: 20px;
+  background-color: red;
+  border-radius: 4px;
+}
